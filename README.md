@@ -85,14 +85,15 @@ While unvisited nodes:
 ---
 
 ## 👥 Team Members
-
 | Name | Roll No |
 |---|---|
-| Member 1 | - |
-| Member 2 | - |
-| Member 3 | - |
-| Member 4 | - |
-| Member 5 | - |
+| K.Srivardhan | AP24122230029 |
+| G.Suresh | AP24122230018 |
+| K.Koushik | AP24122230007 |
+| R.Pavan vs gowd | AP24122230020|
+| M.Abhinay | AP24122230021 |
+| V.satya ganesh | AP24122230023|
+
 
 ---
 
